@@ -1,20 +1,20 @@
 {
   "employees": [
             {
-                Code: 'emp001',
-                FirstName: 'Amit',
-                LastName: 'Bairagya',
-                Gender: 'Male',
-                Salary: 10000,
-                DateOfBirth: '07/11/1989'
+                "Code": "emp001",
+                "FirstName": "Amit",
+                "LastName": "Bairagya",
+                "Gender": "Male",
+                "Salary": 10000,
+                "DateOfBirth": "07/11/1989"
             },
             {
-                Code: 'emp002',
-                FirstName: 'Puja',
-                LastName: 'Das',
-                Gender: 'Female',
-                Salary: 20000,
-                DateOfBirth: '08/12/1985'
+                "Code": "emp002",
+                "FirstName": "Puja",
+                "LastName": "Das",
+                "Gender": "Female",
+                "Salary": 20000,
+                "DateOfBirth": "08/12/1985"
             }
         ]
 }
